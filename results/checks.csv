@@ -1,0 +1,13 @@
+check,statistic,value
+0. Headline,Correlation of levels,0.984
+1. Regression in log levels,R squared,0.921
+1. Regression in log levels,Durbin-Watson statistic,0.174
+2. Engle-Granger cointegration,Test statistic,-2.491
+2. Engle-Granger cointegration,p-value,0.283
+3. Detrended log levels,Correlation,-0.067
+4. Yearly changes,Correlation,-0.077
+4. Yearly changes,Permutation p-value,0.555
+4. Yearly changes,"Bootstrap 95% CI, lower",-0.318
+4. Yearly changes,"Bootstrap 95% CI, upper",0.189
+5. Independent random walks,Median correlation,0.947
+5. Independent random walks,Share of pairs with r > 0.9,0.83
