@@ -1,4 +1,6 @@
-# Do avocados move the stock market?
+# Correlation vs causation in time series
+
+**Do avocados move the stock market?**
 
 World avocado production and the S&P 500 have a correlation of **0.98** over 64 years
 (1961 to 2024). This repository uses real public data to show why that number means nothing.
