@@ -1,4 +1,4 @@
-# Correlation vs causation in time series
+# Spurious correlation in time series
 
 **Do avocados move the stock market?**
 
